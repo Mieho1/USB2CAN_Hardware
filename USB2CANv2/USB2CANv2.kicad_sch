@@ -7,10 +7,9 @@
 	(title_block
 		(title "USB2CAN- CAN TO UART TRANSLATION")
 		(date "2024-01-10")
-		(rev "0.2")
+		(rev "0.3")
 		(company "Gdańsk PGRacingTeam")
-		(comment 1 "Karol Pergoł")
-		(comment 2 "Mieszko Celiński")
+		(comment 1 "Mieszko Celiński")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
@@ -11134,7 +11133,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 175.26 135.89 0)
 			(effects
 				(font
